@@ -2,7 +2,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Anayo_Oleru?style=social)
 
 # Find-City
-Day 7: A collection of drums and other percussion instruments. Fun to play drum, you can customize your a song, a beat or try out any sound you want, just by hitting the corresponding keys on your keyboard.
+Day 7: A search functionality a githhub gist API. You can search for any City in the United states. 
 
 https://anayooleru.github.io/Find-City/
 
